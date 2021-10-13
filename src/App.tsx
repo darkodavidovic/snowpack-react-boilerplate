@@ -43,6 +43,7 @@ const Header = styled.header`
   background-color: #111;
   display: flex;
   align-items: center;
+  border: 2px solid black;
 
   > a {
     text-decoration: none;
